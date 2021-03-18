@@ -1,0 +1,30 @@
+body{
+    background-image: url(./images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#container{
+    background-color: black;
+    border: 5px solid blue;
+    height: 275px;
+    width:750px;
+    margin: 0  auto;
+    text-align:center ;
+    
+}
+
+#btn{
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 22px;
+    background-color: rgb(192, 191, 192)
+
+}
+
+#output{
+    margin: 25px auto;
+    font-size: 26px;
+    color: white;
+}
